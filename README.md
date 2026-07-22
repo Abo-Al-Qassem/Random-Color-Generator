@@ -10,3 +10,5 @@ This Is Random Color Generator Using HTML, CSS And JS
 - Copy the HEX code to the clipboard.
 - Success message after copying.
 - Responsive design for desktop and mobile.
+## Live Demo
+https://abo-al-qassem.github.io/Random-Color-Generator/
